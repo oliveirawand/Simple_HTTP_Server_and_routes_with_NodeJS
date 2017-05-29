@@ -1,6 +1,6 @@
 #Purpose
 
-This is a simple application which purpose is didatic and knowledge sharing.
+This is a simple application which purpose is didatic and for knowledge sharing.
 
 #Starting the application
 
