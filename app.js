@@ -1,7 +1,9 @@
+//imports the used modules
 var http = require('http');
 var fs = require('fs');
 var urlParser = require('url');
 
+//creates the server
 var server = http.createServer(function(require, response){
   //the "require.url" can be used, but the url module gives us a better url manipulation
   //below, we get the url path name. Example: with example.com/do_something?do=task
